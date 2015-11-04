@@ -9,25 +9,37 @@ Udacity Full Stack Web Development project: Item Catalog. This project provides 
 First you need to install vagrant, then commect to virtual machine by `vagrant up`, `vagrant ssh`. Clone this repository directory and first run `python database_setup.py` to setup database, then run `python lotsofmenus.py` to initialize some sample, finally run `python project.py` to start the server. Now you could view the website at `http://localhost:5005`.
 
 Index page not login:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot1.png)
 
 Store page not login:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot2.png)
 
 Login page:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot3.png)
 
 Index page login:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot4.png)
 
 New shop page:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot5.png)
 
 Index page with shop created:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot6.png)
 
 Shop page login:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot7.png)
 
 Add new item:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot8.png)
 
 Shop page with item created: 
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot9.png)
 
 Delete item:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot10.png)
 
 Item deleted:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot11.png)
 
 Delete shop:
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p3-item-catalog/blob/master/pics/Screen%20Shot12.png)
