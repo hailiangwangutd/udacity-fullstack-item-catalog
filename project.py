@@ -448,4 +448,7 @@ def disconnect():
 if __name__ == '__main__':
     app.secret_key = 'super_secret_key'
     app.debug = True
-    app.run(host='0.0.0.0', port=5000)
+    # In reality I defined the port to 5000 with only configure the Vagrantfile of vagrant like below:
+    # config.vm.network "forwarded_port", guest: 5000, host: 5005
+    # But I will leave this to 5005 for your convenient
+    app.run(host='0.0.0.0', port=5005)
